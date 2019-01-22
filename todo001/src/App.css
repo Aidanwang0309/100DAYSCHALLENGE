@@ -1,0 +1,16 @@
+.Main {
+  overflow: hidden;
+  background-color: #8831e2;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.container {
+  padding: 100px;
+  background-color: #f7f8f9;
+  margin: auto;
+  margin-top: 80px;
+  height: auto;
+  width: 80%;
+  border-radius: 5px;
+}

@@ -1,0 +1,11 @@
+.navbar {
+  height: 100px;
+  background: grey;
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  line-height: 90px;
+  font-size: 2rem;
+}
