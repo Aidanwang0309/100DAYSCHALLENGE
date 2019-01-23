@@ -1,0 +1,11 @@
+.toolbar {
+  justify-content: space-between;
+}
+
+.FormPersonalDetailContainer {
+  text-align: center;
+}
+
+.Nextbutton {
+  margin: 15px;
+}
