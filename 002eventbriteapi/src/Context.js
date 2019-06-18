@@ -26,7 +26,7 @@ export class Provider extends Component {
   componentDidMount = async () => {
     try {
       const events = await axios.get(
-        `https://www.eventbriteapi.com/v3/events/search/?subcategories=3006&sort_by=best&token=${
+        `https://www.mogl.com/api/v2/venues/{venue}/token=${
           process.env.REACT_APP_EB_KEY
         }`
       );
