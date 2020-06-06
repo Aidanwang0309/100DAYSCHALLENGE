@@ -10,7 +10,7 @@
       "concurrently --names \"server,client\" \"npm run server --silent\" \"npm run client --silent\""
   },
   "dependencies": {
-    "apollo-server-express": "^2.3.3",
+    "apollo-server-express": "^2.14.2",
     "bcrypt": "^3.0.3",
     "concurrently": "^4.1.0",
     "cors": "^2.8.5",
